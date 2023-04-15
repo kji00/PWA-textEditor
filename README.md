@@ -31,7 +31,7 @@ devDependies for webpack.config.js to use:
 
 ## Screenshot
 
-![Gif](gif_placeholder)
+![Gif](/assets/img/textEditorUse.gif)
 
 ## Application and Repo
 
