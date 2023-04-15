@@ -18,6 +18,16 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
+      // htmlwebpack generates the html file
+      new HtmlWebpackPlugin({
+        template: "./index.html",
+        title: "JATE",
+      }),
+      // injects service worker
+      new InjectManifest({
+        swSrc: "./src-sw.js",
+        swDest: "src-sw.js",
+      }),
       
     ],
 
