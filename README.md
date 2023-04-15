@@ -7,25 +7,25 @@ Create a Progressive Web Application where you can use not only on the web but i
 
 Run:
 
-`npm i`
-`npm run build`
-`npm run start`
+`npm i`\
+`npm run build`\
+`npm run start:dev`
 
 devDependies for webpack.config.js to use:
 
-`@babel/core`
-`@babel/plugin-transform-runtime`
-`@babel/preset-env`
-`@babel/runtime`
-`babel-loader`
-`css-loader`
-`html-webpack-plugin`
-`http-server`
-`style-loader`
-`webpack`
-`webpack-cli`
-`webpack-dev-server`
-`webpack-pwa-manifest`
+`@babel/core`\
+`@babel/plugin-transform-runtime`\
+`@babel/preset-env`\
+`@babel/runtime`\
+`babel-loader`\
+`css-loader`\
+`html-webpack-plugin`\
+`http-server`\
+`style-loader`\
+`webpack`\
+`webpack-cli`\
+`webpack-dev-server`\
+`webpack-pwa-manifest`\
 `workbox-webpack-plugin`
 
 
