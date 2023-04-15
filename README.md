@@ -36,4 +36,4 @@ devDependies for webpack.config.js to use:
 ## Application and Repo
 
 [GithubRepo](https://github.com/kji00/PWA-textEditor)\
-[HerokuLink](herokuURL_placeholder)
+[HerokuLink](https://shrouded-escarpment-91932.herokuapp.com/)
